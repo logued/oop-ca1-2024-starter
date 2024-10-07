@@ -15,6 +15,44 @@ public class Main {
 
         displayAllPassengers( passengerList );
 
+        // Assignment: Implement and test the following methods
+
+//        getPassengerNames();
+//        getPassengersContainingNames();
+//        getPassengersOlderThan();
+//        countPassengersByGender();
+//        sumFares();
+//        maleSurvivors();
+//        ticketOwner();
+//        averageAge();
+//        getPassengersByTicketClass();
+//        sortPassengersByPassengerId()
+//        sortPassengersByName();
+//        sortPassengersByAgeThenName();
+//        sortPassengersByGenderThenPassengerNumber()
+//        sortPassengersByFareThenSurvival();
+//        sortPassengersByTicketClass()
+//        sortPassengersByAge();
+//        sortPassengersByTicketNumberLambda();
+//        sortPassengersByTicketNumberStatic();
+//        findPassengerByTicketNumber();
+//        findPassengerByPassengerId();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     }
 
