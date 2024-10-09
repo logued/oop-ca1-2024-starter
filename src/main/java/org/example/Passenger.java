@@ -1,5 +1,5 @@
 package org.example;
-
+//ca1
 public class Passenger {
     private String passengerId;    // passenger number
     private int survived;           // 0=false, 1=true
