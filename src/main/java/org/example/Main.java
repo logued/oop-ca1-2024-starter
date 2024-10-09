@@ -15,6 +15,7 @@ public class Main {
 
         displayAllPassengers( passengerList );
 
+
         // Assignment: Implement and test the following methods
 
 //        getPassengerNames();
@@ -37,21 +38,6 @@ public class Main {
 //        sortPassengersByTicketNumberStatic();
 //        findPassengerByTicketNumber();
 //        findPassengerByPassengerId();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     }
